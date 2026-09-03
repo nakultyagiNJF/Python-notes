@@ -1,0 +1,46 @@
+WHAT IS OOP?
+OOP stands for Object-Oriented Programming.
+
+Python is an object-oriented language, allowing you to structure your code using classes and objects for better
+    organization and reusability.
+
+ADVANTAGES OF OOPS:
+    * Provides a clear structure to programs.
+    * Makes code easier to maintain, reuse and debug.
+    * Helps keeps your code DRY (don't repeat yourself).
+    * Allows you to build reusable applications with less code.
+    
+NOTE:- The DRY principle means you should avoid writing the same code more than once. Move repeated code into functions
+        or classes and reuse it.
+        
+WHAT ARE CLASSES AND OBJECTS?
+Classes and Objects are the two core concepts in object-oriented programming.
+A class defines what an object should look like, and an object is created based on that class.
+
+What is OOP's ?
+
+- Object Oriented Programming is a fundamental concept in Python, empowering developers to build modular,
+    maintainable and scalable applications.
+
+- OOP is a way of organizing code that uses objects and classes to represent real-world entities and their behavior.
+    In OOP, object has attributes thing that has specific data and can perform certain actions using methods.
+
+------ Key Features of OOP in Python
+
+- Organizes code into classes and objects
+- Supports encapsulation to group data and methods together
+- Enables inheritance for reusability and hierarchy
+- Allows polymorphism for flexible method implementation
+- Improves modularity, scalability, and maintainability
+
+------ Characteristics of OOP (Object Oriented Programming)
+
+- Python supports the core principles of object-oriented programming, which are the building blocks for designing robust
+    and reusable software. The diagram below demonstrates these core principles:
+
+    1. Class
+    2. Objects
+    3. Inheritance
+    4. Polymorphism
+    5. Encapsulation
+    6. Data Abstraction

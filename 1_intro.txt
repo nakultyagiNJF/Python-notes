@@ -1,0 +1,30 @@
+What is Python?
+- Python is high-level, general-purpose, interpreted programming language.
+
+1. High level - 
+- Python is a high level programming language that is easy to learn.
+- It does't require you to understand the details of the computer to develop programs efficiently.
+
+2. General purpose - 
+- Python is a general-purpose language.
+- It means that you can use Python in various domains, including:
+    * Web application 
+    * Big data application
+    * Testing 
+    * Automation
+    * data science, machine learning, and application
+    * Desktop software 
+    * Mobile apps 
+    3. Interpreted programming language       
+- To execute the source code, you must convert it to a machine learning the computer can understand.
+- The python interpreter turns the source code, line by line, once at a time, into machine code when the python program executes.    
+Note:- Basically there are two types of translates for programming language :
+       1. compiler - (scan whole program in single view and run and execute)
+       2. interpreted - (scan one line at a time and run and execute)
+=> Python syntax compared to other programming languages:
+   -< Python was designed for readability, and has some similarities to English language with influence from mathematics. >- 
+   -< Python uses new lines to complete a commend, as opposed to other pro. lang. which often use semicolons (;) or parenthesis (). >- 
+   -< Python relies on indentation, using whitespace, to define scope; such as the scope of loops, fuctions and classes. Other pro. lang. often uses curly-brackets {} for this purpose. 
+
+   => Synthax:
+   print("Hello Shree") 
