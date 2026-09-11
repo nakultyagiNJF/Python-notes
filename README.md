@@ -26,4 +26,4 @@ These notes document my Python learning and provide a reference for practicing a
 
 ## Notes
 
-[View Python Notes](Python-notes)
+[View Python Notes](README.md)
