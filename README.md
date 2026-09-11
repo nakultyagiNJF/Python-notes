@@ -26,4 +26,4 @@ These notes document my Python learning and provide a reference for practicing a
 
 ## Notes
 
-[View Python Notes](Python-notes.pdf)
+[View Python Notes](Python-notes)
